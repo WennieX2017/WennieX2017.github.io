@@ -5,8 +5,8 @@
 
 # Site
 title: It's time to do
-subtitle:No meat, no life
-description:I will win
+subtitle: 不负当下，不畏将来
+description: 向阿简学习！
 author: Kinry Xiong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -14,8 +14,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:https://WennieX2017.github.io
-baseurl:'/next'
+url: https://WennieX2017.github.io
+baseurl: '/next'
 permalink: pretty
 
 # Pagination
